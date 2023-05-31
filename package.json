@@ -1,0 +1,20 @@
+{
+  "name": "shigni-modale-p14",
+  "version": "1.0.0",
+  "description": "modal package for openclassrooms p14",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shigni/shigni-modale-p14.git"
+  },
+  "author": "Louis Servant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shigni/shigni-modale-p14/issues"
+  },
+  "homepage": "https://github.com/Shigni/shigni-modale-p14#readme"
+}
