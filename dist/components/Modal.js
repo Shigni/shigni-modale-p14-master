@@ -15,7 +15,6 @@ function Modal(_ref) {
       closeModal = _ref.closeModal,
       parameter = _ref.parameter,
       message = _ref.message;
-  // Template
   return /*#__PURE__*/(0, _jsxRuntime.jsx)(_jsxRuntime.Fragment, {
     children: showModal === true && /*#__PURE__*/(0, _jsxRuntime.jsx)("div", {
       className: "modal",
