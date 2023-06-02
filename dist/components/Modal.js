@@ -17,6 +17,8 @@ function Modal(_ref) {
       message = _ref.message;
   return /*#__PURE__*/(0, _jsxRuntime.jsx)(_jsxRuntime.Fragment, {
     children: showModal === true && /*#__PURE__*/(0, _jsxRuntime.jsx)("div", {
+      className: "modal-bg",
+      children: /*#__PURE__*/(0, _jsxRuntime.jsxs)("div", {
       className: "modal",
       id: id,
       style: parameter,
@@ -31,6 +33,7 @@ function Modal(_ref) {
         })]
       })
     })
+  })
   });
 }
 
