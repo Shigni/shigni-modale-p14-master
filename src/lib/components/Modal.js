@@ -2,7 +2,6 @@ import "./Modal.css";
 
 
 function Modal({id, showModal, closeModal, parameter, message}) {  
-    // Template
     return (
         <>
             {
