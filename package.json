@@ -1,6 +1,6 @@
 {
   "name": "shigni-modale-p14-master",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "modal package for openclassrooms p14",
   "main": "dist/index.js",
   "module": "dist/index.js",
