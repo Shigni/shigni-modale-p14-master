@@ -39,8 +39,4 @@ than add the component to your project, add your function and parameters, you al
           parameter={modalParameter}
           message="Example"
         />
-<<<<<<< HEAD
-```
-=======
-```
->>>>>>> 12c013bda1bfd84c915724182e6060cd6f0235ec
+```      
