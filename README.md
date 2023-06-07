@@ -28,7 +28,7 @@ const modalParameter = {
 	"width": "fit-content"
 }
 ```
-than add the component, you also can change the message
+than add the component to your project, add your function and parameters, you also can change the message,
 
 ```javascript
 <Modal
