@@ -7,7 +7,7 @@ npm i shigni-modale-p14-master
 ```
 
 ## Parameters
-You'll need to import useState from React and set the state first so the modal don't show and is able to reset
+You'll need to import `useState` from React and set the state first so the modal don't show and is able to reset
 ```javascript
 import React, { useState } from "react";
 import Modal from 'shigni-modale-p14-master';
@@ -15,7 +15,7 @@ import Modal from 'shigni-modale-p14-master';
 const [displayModal, setDisplayModal] = useState(false);
 const [modalReset, setModalReset] = useState(false);
 ```
-you can add a const to set css properties to the modal, all listed here
+you can add a `const` to set css properties to the modal, all listed here
 ```javascript
 const modalParameter = {
 	"backgroundColor": "#EEEEEE",   
